@@ -1,0 +1,57 @@
+name: haywood.brakus
+description: Graphic Interface
+version: 0.0.1
+author: 0rzfnncm.glbial0u@0xamsbts.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: haywoodbrakus
+  parentArtefactID: team1729807714163
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 22:08:35'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 22:08:35'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T22:08:35.456682Z'
+  name: plibMaven
+  version: 8.4.0-SNAPSHOT
+  id: '991150572'
+  createdAt: '2024-10-24T22:08:35.456682Z'
+  type: plibMaven
+projectDependencies:
+  '378':
+    projectUID: 378
+    projectName: garth.prosacco
+    repositoryPath: gitUri=http://gitserver:3000/dev_pWXy18bF_team_598/dev_pWXy18bF_project_378.git&subPath=
+    version: garth.prosacco/0.21.284
+    isDefault: false
+    author: null
+    createdAt: '2024-10-24 22:08:35'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
